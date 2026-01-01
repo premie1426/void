@@ -11,3 +11,5 @@
 4. Select Extensions: Install from VSIX….
 
 5. Choose the .vsix file you downloaded.
+
+Once installed, you can select the theme in Color Theme.
