@@ -2,7 +2,7 @@
   "name": "void",
   "displayName": "VOID",
   "description": "A very dark VS Code theme with subdued greys and minimal visual noise",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.107.0"
   },
