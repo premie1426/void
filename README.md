@@ -1,4 +1,6 @@
-# void README
+# VOID – VS Code Theme
+
+**A custom dark, modern theme for Visual Studio Code.**
 
 **Installation from VSIX**
 
