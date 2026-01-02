@@ -1,8 +1,8 @@
 {
   "name": "void",
-  "displayName": "VOID",
+  "displayName": "void",
   "description": "A very dark VS Code theme with subdued greys and minimal visual noise",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.107.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "VOID",
+        "label": "void",
         "uiTheme": "vs-dark",
-        "path": "./themes/VOID-color-theme.json"
+        "path": "./themes/void-color-theme.json"
       }
     ]
   }
