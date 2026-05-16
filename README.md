@@ -2,7 +2,7 @@
 
 A custom dark, modern theme for Visual Studio Code.
 
-![VOID Theme Preview]()
+![VOID Theme Preview](https://github.com/user-attachments/assets/c9348835-c243-487f-b83c-4d2fed6ae1d3)
 
 ---
 
