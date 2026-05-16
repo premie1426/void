@@ -2,13 +2,40 @@
   "name": "void",
   "displayName": "void",
   "description": "A very dark VS Code theme with subdued greys and minimal visual noise",
+
   "version": "1.0.1",
+
+  "publisher": "premie1426",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/premie1426/void"
+  },
+
+  "homepage": "https://github.com/premie1426/void",
+
+  "bugs": {
+    "url": "https://github.com/premie1426/void/issues"
+  },
+
+  "license": "MIT",
+
   "engines": {
     "vscode": "^1.107.0"
   },
+
   "categories": [
     "Themes"
   ],
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "minimal",
+    "black",
+    "void"
+  ],
+
   "contributes": {
     "themes": [
       {
